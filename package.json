@@ -3,7 +3,7 @@
   "author": {
     "name": "Alessandro Tomè"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "build": "preact build --no-prerender && npm run purgecss",
